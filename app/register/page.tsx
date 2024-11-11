@@ -228,7 +228,7 @@ const StepThree = ({
 				<p>Don't have a code?</p>
 				<a
 					className="text-orange-500"
-					href="https://wa.me/2349139943683?text=I+want+to+pay+for+Benefix+Registration"
+					href="https://wa.me/2349090976720?text=Hello+I+want+to+Purchase+Benefix+Coupon+code+to+complete+my+registration"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
